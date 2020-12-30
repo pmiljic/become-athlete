@@ -1,0 +1,8 @@
+export { default as Avatar } from './Avatar'
+export { default as Posts } from './Posts'
+export { default as PostHeader } from './PostHeader'
+export { default as PostPreview } from './PostPreview'
+export { default as CoverImage } from './CoverImage'
+export { default as MoreStories } from './MoreStories'
+export { default as PostBody } from './PostBody'
+export { default as PostTitle } from './PostTitle'

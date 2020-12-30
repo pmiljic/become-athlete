@@ -1,0 +1,39 @@
+.pageHeading {
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  color: #1d1d1f;
+}
+
+.sectionHeading {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  color: #1d1d1f;
+}
+
+.body {
+  color: #1d1d1f;
+  font-size: 16px;
+}
+
+.bodyBold {
+  color: #1d1d1f;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+@media screen and (min-width: 768px) {
+  .pageHeading {
+    font-size: 48px;
+  }
+  .sectionHeading {
+    font-size: 28px;
+  }
+  .body {
+    font-size: 19px;
+  }
+  .bodyBold {
+    font-size: 19px;
+  }
+}

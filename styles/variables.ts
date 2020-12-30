@@ -1,0 +1,7 @@
+export const COLOR_TEXT_BLACK = '#1d1d1f'
+export const COLOR_TEXT_WHITE = '#f5f5f7'
+export const COLOR_BLACK = '#000'
+export const COLOR_WHITE = '#fff'
+export const COLOR_BACKGROUND_GREY = '#303030'
+export const COLOR_BLUE_LINK = '#06c'
+export const COLOR_WHITE_BACKGROUND = '#f2f2f2'
